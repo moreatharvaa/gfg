@@ -1,3 +1,29 @@
+Example 1:
+
+Input: 5
+
+Output:
+* 
+* * 
+* * * 
+* * * * 
+* * * * *
+* * * *
+* * *
+* *
+*
+
+Your Task:
+
+You don't need to input anything. Complete the function printTriangle() which takes  an integer n  as the input parameter and print the pattern.
+
+Constraints:
+
+1<= N <= 20
+    
+    
+    
+    
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 
